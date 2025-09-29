@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kenjee Polanco
 
-I'm a recent **Computer Science graduate** with hands-on experience as the **Technology and Operations Manager** at Teaneck Cinemas and as a freelance **Field Technician** for Asphalt Hoops in Teaneck, NJ.
+I'm a recent **Computer Science graduate** with hands-on experience as the **IT Support Specialist** at Teaneck Cinemas and as a freelance **Field Technician** for Asphalt Hoops in Teaneck, NJ.
 
 I'm actively seeking an **entry-level position in IT or Computer Science** where I can contribute my skills, reliability, and enthusiasm for technology.
 
